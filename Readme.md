@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Program.cs](./CS/ConsoleApplication1/Program.cs) (VB: [Program.vb](./VB/ConsoleApplication1/Program.vb))
+* [Quote.cs](./CS/ConsoleApplication1/Quote.cs) (VB: [Quote.vb](./VB/ConsoleApplication1/Quote.vb))
+* [QuoteItem.cs](./CS/ConsoleApplication1/QuoteItem.cs) (VB: [QuoteItem.vb](./VB/ConsoleApplication1/QuoteItem.vb))
+<!-- default file list end -->
 # How to get the maximum or minimum object's value from a collection
 
 
