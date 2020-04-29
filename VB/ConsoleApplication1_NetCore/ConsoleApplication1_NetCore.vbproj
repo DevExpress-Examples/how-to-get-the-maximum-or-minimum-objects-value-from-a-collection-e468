@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <RootNamespace></RootNamespace>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="..\ConsoleApplication1\Program.vb" Link="Program.vb" />
+    <Compile Include="..\ConsoleApplication1\Quote.vb" Link="Quote.vb" />
+    <Compile Include="..\ConsoleApplication1\QuoteItem.vb" Link="QuoteItem.vb" />
+  </ItemGroup>
+  
+  <ItemGroup>
+    <PackageReference Include="DevExpress.Xpo" Version="19.2.7" />
+  </ItemGroup>
+
+</Project>
