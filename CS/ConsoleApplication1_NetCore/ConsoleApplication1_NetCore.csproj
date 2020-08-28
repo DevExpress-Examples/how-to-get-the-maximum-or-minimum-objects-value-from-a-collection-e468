@@ -9,6 +9,6 @@
     <Compile Include="..\ConsoleApplication1\QuoteItem.cs" Link="QuoteItem.cs" />
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="DevExpress.Xpo" Version="19.2.7" />
+    <PackageReference Include="DevExpress.Xpo" Version="19.2.9" />
   </ItemGroup>
 </Project>
