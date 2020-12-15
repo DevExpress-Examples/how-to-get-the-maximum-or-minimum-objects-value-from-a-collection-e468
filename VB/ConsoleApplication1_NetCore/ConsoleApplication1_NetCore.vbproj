@@ -14,6 +14,6 @@
     <Compile Include="..\ConsoleApplication1 - VB\QuoteItem.vb" Link="QuoteItem.vb" />
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="DevExpress.Xpo" Version="19.2.10" />
+    <PackageReference Include="DevExpress.Xpo" Version="19.2.11" />
   </ItemGroup>
 </Project>
